@@ -20,7 +20,7 @@ Aplikasi Kegiatan Guru adalah sistem manajemen kegiatan harian guru yang membant
 - Frontend: `HTML`, `CSS`, `JavaScript` (opsional: `React` / `Vue`)
 - Backend: `PHP` / `Node.js` / `Python (Flask/Django)`
 - Database: `MySQL` / `MongoDB` / `SQLite`
-- Diagram & Dokumentasi: `draw.io`, `PlantUML`
+- Diagram & Dokumentasi: `draw.io`, `dbdiagram.io`
 
 ---
 
