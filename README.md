@@ -85,6 +85,6 @@ Untuk pertanyaan dan kolaborasi:
 
 Nama: Muhamad Fauzan Raia Al-Fajri
 
-Email: muhamadfauzanraia@gmail.com
+Email: muhamadfauzanraia04@gmail.com
 
 GitHub: github.com/RAIAFAUZAN
