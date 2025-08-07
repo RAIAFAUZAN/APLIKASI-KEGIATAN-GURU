@@ -28,7 +28,7 @@ Aplikasi Kegiatan Guru adalah sistem manajemen kegiatan harian guru yang membant
 
 Berikut diagram alur aplikasi, dari login hingga proses cetak nilai:
 
-![Flowchart Aplikasi Nilai Siswa](flowchart1.svg)
+![Flowchart Aplikasi Kegiatan Guru](_Flowchart.svg)
 
 📌 *File flowchart tersedia dalam format SVG di folder /flowchart.*
 
