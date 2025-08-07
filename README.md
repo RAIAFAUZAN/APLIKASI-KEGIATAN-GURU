@@ -24,12 +24,15 @@ Aplikasi Kegiatan Guru adalah sistem manajemen kegiatan harian guru yang membant
 
 ---
 
-## 🗺️ Flowchart Aplikasi Kegiatan Guru
+## 🧭 Flowchart Sistem
 
-Berikut adalah alur sistem kegiatan guru:
+Berikut diagram alur aplikasi, dari login hingga proses cetak nilai:
 
-!APLIKASI-KEGIATAN-GURU(flowchart aplikasi kegiatan guru.drawio.svg)
+![Flowchart Aplikasi Nilai Siswa](flowchart1.svg)
 
+📌 *File flowchart tersedia dalam format SVG di folder /flowchart.*
+
+---
 
 📫 Kontak
 Untuk pertanyaan dan kolaborasi:
