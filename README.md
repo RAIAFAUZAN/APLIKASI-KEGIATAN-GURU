@@ -24,61 +24,12 @@ Aplikasi Kegiatan Guru adalah sistem manajemen kegiatan harian guru yang membant
 
 ---
 
-## 🛠️ Cara Instalasi (Localhost)
+## 🗺️ Flowchart Aplikasi Kegiatan Guru
 
-1. **Clone repository**
-   ```bash
-   git clone https://github.com/username/kegiatan-guru.git
-   cd kegiatan-guru
-Setup lingkungan
+Berikut adalah alur sistem kegiatan guru:
 
-Buat virtual environment (jika Python)
+![APLIKASI-KEGIATAN-GURU](./docs/flowchart.png)
 
-Install dependencies:
-
-bash
-Salin
-Edit
-npm install        # untuk Node.js
-pip install -r requirements.txt  # untuk Python
-Jalankan aplikasi
-
-bash
-Salin
-Edit
-npm start           # atau
-python app.py
-Akses aplikasi
-Buka browser dan akses http://localhost:8000 atau sesuai port.
-
-📂 Struktur Direktori
-java
-Salin
-Edit
-kegiatan-guru/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-├── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-├── public/
-├── README.md
-├── .env
-├── flowchart-kegiatan-guru.drawio
-├── package.json / requirements.txt
-🧾 Lisensi
-Proyek ini menggunakan lisensi MIT. Silakan gunakan, modifikasi, dan distribusikan sesuai kebutuhan Anda.
-
-🙋 Kontribusi
-Kami terbuka untuk kontribusi! Jika Anda memiliki ide atau ingin menambahkan fitur, silakan buat pull request atau issue.
-
-📌 Dokumentasi Tambahan
-💡 Flowchart aplikasi: flowchart-kegiatan-guru.drawio
-
-📝 Panduan penggunaan: akan ditambahkan pada folder /docs
 
 📫 Kontak
 Untuk pertanyaan dan kolaborasi:
