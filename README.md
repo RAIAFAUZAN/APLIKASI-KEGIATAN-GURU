@@ -30,8 +30,6 @@ Berikut adalah alur sistem kegiatan guru:
 
 ![Flowchart Aplikasi Kegiatan Guru](_Flowchart.svg)
 
-📌 *File flowchart tersedia dalam format SVG di folder /flowchart.*
-
 ---
 
 📫 Kontak
