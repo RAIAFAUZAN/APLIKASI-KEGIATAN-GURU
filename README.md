@@ -34,7 +34,8 @@ Berikut adalah alur sistem kegiatan guru:
 
 ## 🗂️ Database Diagram
 
-![Database ERD](kegiatan guru.svg)
+![Database ERD](kegiatan%20guru.svg)
+
 
 
 📫 Kontak
