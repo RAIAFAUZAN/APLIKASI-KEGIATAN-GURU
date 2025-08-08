@@ -26,17 +26,18 @@ Aplikasi Kegiatan Guru adalah sistem manajemen kegiatan harian guru yang membant
 
 ## 🧭 Flowchart Sistem
 
-Berikut adalah alur sistem kegiatan guru:
+Berikut adalah alur sistem aplikasi kegiatan guru:
 
 ![Flowchart Aplikasi Kegiatan Guru](_Flowchart.svg)
 
 ---
 
 ## 🗂️ Database Diagram
+Berikut adalah alur table database aplikasi kegiatan guru:
 
 ![Database ERD](kegiatan%20guru.svg)
 
-
+---
 
 📫 Kontak
 Untuk pertanyaan dan kolaborasi:
