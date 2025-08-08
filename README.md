@@ -32,6 +32,11 @@ Berikut adalah alur sistem kegiatan guru:
 
 ---
 
+## 🗂️ Database Diagram
+
+![Database ERD](kegiatan guru.svg)
+
+
 📫 Kontak
 Untuk pertanyaan dan kolaborasi:
 
