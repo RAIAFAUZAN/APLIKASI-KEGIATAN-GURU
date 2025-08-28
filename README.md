@@ -28,7 +28,7 @@ Aplikasi Kegiatan Guru adalah sistem manajemen kegiatan harian guru yang membant
 
 Berikut adalah alur sistem aplikasi kegiatan guru:
 
-![Flowchart Aplikasi Kegiatan Guru](_Flowchart.svg)
+![Flowchart Aplikasi Kegiatan Guru](flowchart kbm.drawio.svg)
 
 ---
 
