@@ -35,7 +35,7 @@ Berikut adalah alur sistem aplikasi kegiatan guru:
 ## 🗂️ Database Diagram
 Berikut adalah alur table database aplikasi kegiatan guru:
 
-![Database ERD](kegiatan%20guru.svg)
+![Database ERD](kbm.svg)
 
 ---
 
