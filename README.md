@@ -1,6 +1,6 @@
 # 📚 Aplikasi Kegiatan Guru
 
-Aplikasi Kegiatan Guru adalah sistem manajemen kegiatan harian guru yang membantu mencatat aktivitas mengajar, mengelola jadwal, dan mengunggah laporan secara efisien. Aplikasi ini dirancang untuk mempermudah dokumentasi harian dan evaluasi kinerja guru secara digital dan terstruktur.
+Aplikasi kegiatan guru adalah perangkat lunak (piranti lunak) digital yang dirancang untuk membantu guru dalam mengelola berbagai kegiatan pembelajaran, administrasi, pengembangan diri, dan komunikasi di lingkungan sekolah. Aplikasi ini memanfaatkan teknologi informasi dan komunikasi untuk mendukung proses belajar mengajar, mulai dari merencanakan pelajaran, memantau perkembangan siswa, hingga melakukan evaluasi dan kolaborasi. 
 
 ---
 
@@ -18,7 +18,7 @@ Aplikasi Kegiatan Guru adalah sistem manajemen kegiatan harian guru yang membant
 ## 🧑‍💻 Teknologi yang Digunakan
 
 - Frontend: `HTML`, `CSS`, `JavaScript` (opsional: `React` / `Vue`)
-- Backend: `PHP` / `Node.js` / `Python (Flask/Django)`
+- Backend: `PHP Laravel` / `Node.js` / `Python (Flask/Django)`
 - Database: `MySQL` / `MongoDB` / `SQLite`
 - Diagram & Dokumentasi: `draw.io`, `dbdiagram.io`
 
